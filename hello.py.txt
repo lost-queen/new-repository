@@ -1,1 +1,2 @@
 print("This is my new project")
+print("hello.py")
